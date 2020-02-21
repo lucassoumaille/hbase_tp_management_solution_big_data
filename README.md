@@ -3,7 +3,8 @@
 ## Sujet
 
 Etape 1 : Proposer un schéma de base HBase pour des tables destinées à consulter les films, les clients et les locations de la base Sakila dont
-la structure relationnelle MySQL est décrite ici.
+la structure relationnelle MySQL est décrite ci-dessous.
+![image](sakila_full_database_schema_diagram.png)
 
 > Remarque : A chaque table MySQL ne correspond pas une table HBase
 
@@ -59,7 +60,7 @@ Afin de lancer le programe, exécutez la commande suivante :
 Adresse du dépôt : https://github.com/lucassoumaille/hbase_tp_management_solution_big_data
 
 ### Etape 1
-![image](sakila_full_database_schema_diagram.png)
+
 
 ### Membres du groupe
 
