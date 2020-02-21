@@ -58,6 +58,9 @@ Afin de lancer le programe, exécutez la commande suivante :
 
 Adresse du dépôt : https://github.com/lucassoumaille/hbase_tp_management_solution_big_data
 
+### Etape 1
+![image](sakila_full_database_schema_diagram.png)
+
 ### Membres du groupe
 
 - Maxime COHEN
